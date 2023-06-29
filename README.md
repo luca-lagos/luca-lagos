@@ -2,7 +2,7 @@
 <h3 align="center">Actualmente trabajo y me perfecciono como desarrollador frontend y analista de calidad de datos. Me considero una persona proactiva, motivada, que se siente cómoda trabajando en equipo y que tiene mucha empatía, por eso le encanta ayudar a las personas a crear las soluciones que necesitan para que ambos podamos crecer.</h3>
 
 * <p align="center">🔭 Actualmente estoy trabajando como Analista de calidad de datos en <strong>SINTyS</strong>.</p>
-* <p align="center">🌱 Actualmente estoy perfeccionandome en el desarrollo frontend mobile con <strong>Flutter</strong> e <strong>**Ionic</strong>.</p>
+* <p align="center">🌱 Actualmente estoy perfeccionandome en el desarrollo frontend mobile con <strong>Flutter</strong> e <strong>Ionic</strong>.</p>
 
 <h3 align="center">Contactemos:</h3>
 <p align="center">

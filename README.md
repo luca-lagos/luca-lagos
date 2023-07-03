@@ -6,9 +6,9 @@
 
 <h3 align="center"><u>My contact</u></h3>
 <p align="center">
-<a href="https://codepen.io/luca-lagos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/luca-lagos" height="30" width="40" /></a>
-<a href="https://luca-lagos.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://luca-lagos.vercel.app" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/luca-lagos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luca-lagos" height="30" width="40" /></a>
+<a href="https://codepen.io/luca-lagos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/luca-lagos" height="30" width="40" /></a>
+<a href="https://luca-lagos.vercel.app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://luca-lagos.vercel.app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luca-lagos" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luca-lagos" height="30" width="40" /></a>
 </p>
 
 <h3 align="center"><u>My knowledges</u></h3>
